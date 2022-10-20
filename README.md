@@ -1,7 +1,7 @@
 SQUAD - Heavy Hitters Quantile Estimation
 ===================
 SQUAD is a method that combines sampling and sketching while improving the asymptotic space complexity. Intuitively, SQUAD uses a background sampling process to capture the behaviour of the quantiles of an item before it is allocated with a sketch, thereby allowing us to use fewer samples and sketches.
-For more details visit: https://arxiv.org/abs/2201.01958
+
 
 Getting Started
 --------------------------------
